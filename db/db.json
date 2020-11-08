@@ -1,0 +1,29 @@
+{  
+    "people":[ 
+        {  
+            "id":"1",
+            "firstname":"Hilal", 
+            "lastname":"kaplan", 
+            "mail":"hilal.kaplan094@gmail.com"  , 
+            "phone":"0123456789"
+
+        }  ,
+        {  
+            "id":"2",
+            "firstname":"Hilal", 
+            "lastname":"kaplan", 
+            "mail":"hilal.kaplan094@gmail.com"  , 
+            "phone":"0123456789"
+
+        }  ,
+        {  
+            "id":"3",
+            "firstname":"Hilal", 
+            "lastname":"kaplan", 
+            "mail":"hilal.kaplan094@gmail.com"  , 
+            "phone":"0123456789"
+
+        } 
+
+    ]
+}
